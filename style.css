@@ -1,0 +1,19 @@
+.box {
+  width: 356px !important;
+  height: 237px !important;
+}
+
+img {
+  width: 100%;
+  cursor: pointer;
+  transition: all 0.4s;
+}
+
+#display {
+  width: 600px !important;
+  height: 400px !important;
+}
+
+i {
+  cursor: pointer;
+}
